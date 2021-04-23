@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_ConversionReport_Files/ConversionReport.xslt'?>
+<UpgradeLog>
+  <Properties>
+    <Property Name="Project" Value="Regex" />
+    <Property Name="Project File" Value="C:\Users\zwander\Desktop\Regex\Regex.csproj" />
+    <Property Name="Date" Value="Wednesday, December 05, 2012" />
+    <Property Name="Time" Value="11:55 AM" />
+  </Properties>
+  <Event ErrorLevel="0" Project="C:\Users\zwander\Desktop\Regex\Regex.csproj" Source="..\Regex.csproj" Description="Project was successfully converted: 'C:\Users\zwander\Desktop\Regex\Regex.csproj' to 'C:\Users\zwander\Desktop\Regex\Regex.sqlproj'" />
+  <Event ErrorLevel="3" Project="C:\Users\zwander\Desktop\Regex\Regex.csproj" Source="..\Regex.csproj" Description="Converted" />
+</UpgradeLog>
